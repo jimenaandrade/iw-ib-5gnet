@@ -4,6 +4,21 @@ IW-IB-5GNET is an Infrastructure-wide and Intent-Based networking dataset for 5G
 
 The `iw-ib-5gnet_1000.csv` file contains an extract corresponding to 1000 instances of the original dataset.
 
+For additional information, refer to the following research article:
+```
+@Article{AndradeHoz2024,
+  author  = {Andrade-Hoz, Jimena and Wang, Qi and Alcaraz-Calero, Jose M.},
+  journal = {Sensors},
+  title   = {{Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks}},
+  year    = {2024},
+  issn    = {1424-8220},
+  number  = {3},
+  volume  = {24},
+  doi     = {10.3390/s24030783},
+  url     = {https://www.mdpi.com/1424-8220/24/3/783},
+}
+```
+
 ### Authors
 Jimena Andrade-Hoz, J.M. Alcaraz-Calero and Qi Wang \
 This GIT repository is maintained by Jimena Andrade-Hoz \
