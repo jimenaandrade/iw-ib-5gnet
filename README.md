@@ -41,3 +41,5 @@ https://beyond5ghub.uws.ac.uk/
   url          = {https://github.com/jimenaandrade/iw-ib-5gnet},
 }
 ```
+
+This project is licensed under the GPL-2.0 License.
