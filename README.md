@@ -21,10 +21,10 @@ For additional information, refer to the following research article:
 }
 ```
 
-### Authors
-Jimena Andrade-Hoz, J.M. Alcaraz-Calero and Qi Wang \
+### Author
+Jimena Andrade-Hoz \
 This GIT repository is maintained by Jimena Andrade-Hoz \
-jimena.andrade-hoz@uws.ac.uk
+jimena.andrade@hotmail.com
 
 
 ### Acnowledgement
@@ -39,6 +39,7 @@ https://beyond5ghub.uws.ac.uk/
   organization = {GitHub},
   title        = {{IW-IB-5GNET dataset}},
   url          = {https://github.com/jimenaandrade/iw-ib-5gnet},
+  year         = {2024},
 }
 ```
 
